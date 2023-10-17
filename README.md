@@ -44,7 +44,7 @@ For future tasks, I plan to further refine and optimize the models, explore feat
 #### Usage
 1. Clone this repository to your local machine using Git.
    ```
-   git clone https://github.com/DS-Ali-Arshad/CODSOFT.git
+   [git clone https://github.com/DS-Ali-Arshad/CODSOFT.git](https://github.com/DS-Ali-Arshad/CodSoft-Data-Science-Intern-Task-01.git)
    ```
 
 2. Open the Jupyter Notebook ` CodSoft_Task01_Titanic_Survival_Prediction.ipynb ` to view the code and analysis for the task.
