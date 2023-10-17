@@ -19,7 +19,7 @@ Welcome to my CODSOFT Data Science Internship repository. This repository contai
 I used the Titanic dataset, which contains information about passengers, including their age, sex, class, and more. The dataset is available in the 'Dataset' folder. 
 
 ## Data Preprocessing
-I performed various data preprocessing tasks, including handling missing values, encoding categorical features, and data splitting. 
+I performed various data preprocessing tasks, including handling missing values, encoding categorical features, deleting duplicate records and data splitting. 
 
 ## Exploratory Data Analysis (EDA)
 I explored the dataset to gain insights into the relationships between different features and the target variable "Survived." Visualizations are available in the ' CodSoft_Task01_Titanic_Survival_Prediction.ipynb ' file.
