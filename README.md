@@ -1,4 +1,4 @@
-**CODSOFT-Data-Science-Intern-Task-01**
+# **CODSOFT-Data-Science-Intern-Task-01**
 
 Welcome to my CODSOFT Data Science Internship repository. This repository contains the code and analysis for my first task as a Data Science intern at CodSoft. In this task, I've worked on a real-world dataset related to the Titanic disaster and built machine learning models to predict passenger survival.
 
